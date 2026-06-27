@@ -2,7 +2,7 @@
 
 Multi-domain LLM research system with Space, Defence, and Quantum specialists,
 connected via RAG, cross-domain knowledge sync, and a multi-round debate engine.
-Built for AWS g5.xlarge (A10G 24GB GPU), single-user deployment.
+Built for AWS g5.xlarge (A10G 24GB GPU), multi-user deployment.
 
 ---
 
